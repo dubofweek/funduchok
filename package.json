@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "dubofweek",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.5",
@@ -22,5 +22,14 @@
     "maintained node versions",
     "not dead"
   ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubofweek/funduchok.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dubofweek/funduchok/issues"
+  },
+  "homepage": "https://github.com/dubofweek/funduchok#readme",
   "description": ""
 }
